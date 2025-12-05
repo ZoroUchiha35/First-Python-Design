@@ -1,5 +1,5 @@
 #This is me first program
-print("Hello, Welcome to our Barista!!!")
+print("Hello, Welcome to our Barista Hotel!!!")
 
 name = input("What's your name: ")
 while name == "":
@@ -72,5 +72,6 @@ elif category == "3":
 
 else:
     print("Invalid category selection!")
+
 
 
