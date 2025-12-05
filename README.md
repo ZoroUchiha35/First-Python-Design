@@ -1,2 +1,2 @@
 # First-Python-Design
-This a Python Design Menu
+This is a Python Design Menu for Barista Hotel
