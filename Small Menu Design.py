@@ -1,7 +1,7 @@
 #This is me first program
 print("Hello, Welcome to our Barista Hotel!!!")
 
-name = input("What's your name: ")
+name = input("Enter your name please: ")
 while name == "":
     name = input("What's your name: ")
 print(f"Hello {name}, thank you for coming in today\nHere is our Menu\n")
@@ -72,6 +72,7 @@ elif category == "3":
 
 else:
     print("Invalid category selection!")
+
 
 
 
