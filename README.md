@@ -1,4 +1,4 @@
 # First Python Design of a Menu
 
-- A Python Design Menu for Barista Hotel.<br>
+- A basic Python Design Menu for Barista Hotel menu.<br>
 - Just a Simple Design Menu using mostly For Loop
